@@ -1,3 +1,8 @@
 adatas/*
 models/*
 logs/*
+spectra_cxf.feather
+spectra_score_corr.csv
+t50_genes.csv
+cell_annotations.csv
+SPECTRA_gene_weights.feather
